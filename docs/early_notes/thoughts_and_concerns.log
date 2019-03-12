@@ -1,0 +1,7 @@
+- Having went through the challenge initial readme, feels like it will be a fun project, without a doubt.
+- Although it was mentioned (via email) that time is not limited, there has to be a soft & hard limit to it... I need to estimate how much time I will be able to put into it after work hours and decide whether picking up new technology from scratch is worth it, or it's better to go with something I already know and focus the time I have on other aspects. from what I see thus far, k8s is gonna be the major learning curve here, as I've been orchestrating docker containers using ECS mostly - I could use ECS but it seems from the requirements the actual production @ Unbabel is using k8s - so it could be a good oppurtinity to grasp knowledge of a new tool while at it... though instructions mention how you should use equivalents tools if they exist... we'll see.
+- Where will I run this personal project, considering I no longer have free credits in GCP/Azure/AWS... possibly AWS with a budget plan - if I go all-in IIAC I could in theory have it down whenever I want and re-create for demo purposes as needed.
+- Entropy is... deep, and interesting - already something good came outta this! great answer @ https://www.quora.com/What-is-entropy-16
+
+
+
